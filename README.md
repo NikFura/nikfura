@@ -8,4 +8,4 @@
 
 ### Connect with me:
 
-[<img align="left" alt="pronichev17@bk.ru" width="22px" src="pronichev17@bk.ru" />][website]
+[<img align="left" alt="pronichev17@bk.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
